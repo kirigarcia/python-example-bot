@@ -1,0 +1,7 @@
+/__pycache__/*
+*.pyc 
+/bot1/*
+/imagenes/*
+/video/*
+#fixme l del beautifulsoup4
+#TODO SA
